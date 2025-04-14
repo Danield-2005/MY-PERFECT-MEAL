@@ -10,8 +10,8 @@ Tbd
 
 Python 3.12
 Dependencies:
-pandas
-requests
+/n pandas
+/n requests
 fpdf
 joblib
 scikit-learn
